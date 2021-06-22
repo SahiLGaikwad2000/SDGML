@@ -1,1 +1,1 @@
-# SDGML
+# Learner-Centric Evolutionary Model
